@@ -1,7 +1,7 @@
 site:
     title: Eurobench framework documentation
     # the 404 page and sitemap files only get generated when the url property is set
-    url: https://antora.gitlab.io/demo/docs-site
+    url: https://eurobench.github.io/
     start_page: sofware_documentation::index.adoc
 content:
   sources:
